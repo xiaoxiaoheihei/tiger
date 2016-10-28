@@ -1,0 +1,6 @@
+[ 2016-10-28T10:39:06+08:00 ] 127.0.0.1 /Tiger/index.php/Index/mongo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+ERR: 无法加载模块:Index
+
